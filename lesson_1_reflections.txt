@@ -1,0 +1,14 @@
+It only shows the affected lines and therefore you can focus on just that.
+
+Debugging goes quicker because you can compare with previous versions.
+
+Pro's: Commit working code, and you decide when a feature is done.
+Cons: User can forget to do this at a reasonable interval.
+
+Because in coding multiple files can be related
+
+log shows all the commits, diff shows the difference between the commits
+
+Its easier to go back to older versions if your tryout code doesn't work. easier to experiment.
+
+Try it for android studio projects.
